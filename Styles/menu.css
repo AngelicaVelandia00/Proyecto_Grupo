@@ -1,0 +1,28 @@
+/* Estilos barra de navegacion*/
+.bg-nav{
+    background-color: #000000;
+}
+.bg-footer{
+    background-image: url("../Styles/img/carne-footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+    color: white;
+    display: flex; 
+    justify-content: center;
+}
+/* Menu Section*/
+.header-section01{
+    background-image: url("../Styles/img/nuestro\ menu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+    color: white;
+    display: flex; 
+    justify-content: center;
+}
+.header-section{
+    color: #980000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
