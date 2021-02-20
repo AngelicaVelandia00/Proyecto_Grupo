@@ -1,0 +1,72 @@
+/* Estilos barra de navegacion*/
+.bg-nav{
+    background-color: #000000;
+}
+.bg-footer{
+    background-image: url("./img/carne-footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+    color: white;
+    display: flex; 
+    justify-content: center;
+}
+/* Estilos quiénes somos*/
+.bg-quienes_somos{
+    background-image: url("./img/fondo_quienes_somos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+    color: white;
+    display: flex; 
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.bg-quienes_somos h1 {
+    font-size: 3rem !important;
+}
+
+.bg-leyenda {
+    font-family: cursive;
+    font-size: medium;
+    color: #980000;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%; 
+}
+
+.section-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.character {
+    width: 25%;
+    margin: 3%;
+    border: 2px #e6e6e6 solid;
+    border-right: 3px #e6e6e6 solid;
+    border-bottom: 3px #e6e6e6 solid;
+    text-align: center;
+    border-radius: 5px;
+} 
+
+.character img {
+    width: 100%;    
+}
+
+.info-character {   
+    padding: 3%;
+}
+
+.fondo-section {
+    background-image: url("./img/brasas_fondo_fotos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+    color: white;    
+    justify-content: center;           
+}
