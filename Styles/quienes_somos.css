@@ -2,6 +2,12 @@
 .bg-nav{
     background-color: #000000;
 }
+
+
+.icon {
+    margin: 1rem;
+}
+
 .bg-footer{
     background-image: url("./img/carne-footer.jpg");
     background-repeat: no-repeat;
@@ -25,12 +31,12 @@
 }
 
 .bg-quienes_somos h1 {
-    font-size: 3rem !important;
+    font-size: 4rem !important;
 }
 
 .bg-leyenda {
-    font-family: cursive;
-    font-size: medium;
+    
+    font-size: small;
     color: #980000;
     text-align: center;
     margin-left: 5%;
